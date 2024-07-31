@@ -1,4 +1,4 @@
-# Urocal-Banano
+# Urocal-Banano --> Imágenes
 
 ## Módulo de Comprobante de Compras
 
