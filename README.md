@@ -1,6 +1,13 @@
 # Urocal-Banano
 
+## Modulo de Comprobante de Compras
+
 <img width="483" alt="image" src="https://github.com/user-attachments/assets/a84a7825-63f3-4c0e-87d7-4b102729bf8c">
+
+Gestión de una compra
+
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/dd741d36-0a44-406b-a443-68d5ef779d92">
+
 
 Registrar el detalle de una compra
 
@@ -13,9 +20,5 @@ Visualizar el detalle
 Gestión del detalle de la compra: Editar, Eliminar
 
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/cc909baa-4c42-4dc8-b6ce-680c12291baa">
-
-Modificar y Eliminar el detalle de la compra
-
-<img width="345" alt="image" src="https://github.com/user-attachments/assets/dd741d36-0a44-406b-a443-68d5ef779d92">
 
 
